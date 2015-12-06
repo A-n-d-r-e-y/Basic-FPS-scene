@@ -1,0 +1,1 @@
+http://www.morozov.lv/the_game/launch.html
