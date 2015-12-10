@@ -72,6 +72,7 @@
     <Compile Include="Assets\RayShooter.cs" />
     <Compile Include="Assets\ReactiveTarget.cs" />
     <Compile Include="Assets\Spin.cs" />
+    <Compile Include="Assets\WanderingAI.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
 </Project>
